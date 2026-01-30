@@ -48,7 +48,7 @@ public class Sort {
 
         quickSort(arr, 0, arr.length - 1);
 
-        System.out.println("Sorted array:");
+        System.out.println("Sorted array: ");
         printArray(arr);
     }
 }
